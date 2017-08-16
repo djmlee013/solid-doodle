@@ -31,7 +31,7 @@ namespace LogGenerator {
         
         //--- Constants ---
         const string AWS_REGION = "us-west-2";
-        const string LOG_GROUP = "/lambda-sharp/log-parser/dev";
+        const string LOG_GROUP = "/lambda-sharp/log-parser/dan";
         const string LOG_STREAM = "test-log-stream";
         
         //--- Fields ---
